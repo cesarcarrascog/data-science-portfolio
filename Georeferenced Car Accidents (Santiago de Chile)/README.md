@@ -1,3 +1,3 @@
-# Analisis georeferencial de accidentes en Santiago
+# Análisis georreferencial de accidentes en Santiago
 
 # En desarrollo
